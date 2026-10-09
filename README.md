@@ -105,3 +105,15 @@ See the ai directory for the incident-analysis implementation.
 ## Final Result
 
 The project demonstrates an end-to-end DevOps delivery lifecycle around Nexvion using source control, automation, containers, CI/CD, infrastructure as code, configuration management, Kubernetes, monitoring, centralized logging, security, AI-assisted incident analysis and AWS cloud deployment.
+
+---
+
+## 🎬 Nexvion Project Demo
+
+This screen recording demonstrates the Nexvion e-commerce
+application, including the homepage and product catalogue.
+
+### ▶ Watch Project Demo
+
+[▶ Click here to watch the Nexvion demo](demo/Nexvion_Project_Demo_GitHub.mp4)
+
